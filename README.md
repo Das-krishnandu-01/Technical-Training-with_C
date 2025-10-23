@@ -11,17 +11,21 @@ Weekly C programming exercises for AIML Technical Training (Aditya University, I
 
 ---
 
+### 👨‍💻 Maintainer  
+**Krishnandu**  
+_AIML Department, Aditya University_  
+
+💬 “Code. Compile. Learn. Repeat.”
+
 ## 🏫 Aditya University  
 ### Department of Artificial Intelligence and Machine Learning  
 📅 **Academic Year:** 2025–26 (Odd Semester - III Sem)
 
----
 
 ## 🎯 Objective
 The goal of this technical training is to help students strengthen **core programming skills in C** through practical, problem-solving-oriented sessions.  
 It focuses on foundational programming logic, control structures, recursion, and file handling techniques.
 
----
 
 ## 🧠 Outcomes
 By the end of this training, learners will be able to:
@@ -29,11 +33,6 @@ By the end of this training, learners will be able to:
 - Solve coding challenges using logic and efficiency.
 - Build mini-projects using **arrays, structures, pointers, and recursion**.
 - Gain hands-on experience through weekly technical tasks.
-
----
-
-## ⏰ Duration
-🕒 **3 Hours per Week**
 
 ---
 
@@ -56,4 +55,9 @@ By the end of this training, learners will be able to:
 
 ---
 
-## ⚙️ Repository Structure
+## 🚀 How to Run
+To compile and run any program:
+```bash
+gcc filename.c -o output
+./output
+
